@@ -1,0 +1,17 @@
+** descargar e instalar
+- nodejs.org
+- create-react-app.dev
+- vitejs.dev/guide/
+
+** actualizar ultima version
+- npm install react-scripts@latest
+
+** para instalar el paquete y crear un proyecto [CREATE REACT APP]
+- npx create-react-app my-app
+
+** para incializar [VITE JS]
+- npm create vite@latest
+- cd app-facebook
+- npm intall
+- npm run dev
+
